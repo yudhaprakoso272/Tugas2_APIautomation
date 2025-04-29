@@ -1,1 +1,2 @@
-# Tugas2_APIautomation
+# Aliffrianto Yudha Prakoso
+# Tugas 2_API Automation

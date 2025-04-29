@@ -1,0 +1,25 @@
+{
+  "name": "tugas2_apiautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudhaprakoso272/Tugas2_APIautomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudhaprakoso272/Tugas2_APIautomation/issues"
+  },
+  "homepage": "https://github.com/yudhaprakoso272/Tugas2_APIautomation#readme",
+  "dependencies": {
+    "cypress": "^14.3.2",
+    "dotenv": "^16.5.0"
+  }
+}
